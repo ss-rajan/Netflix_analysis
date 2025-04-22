@@ -23,13 +23,13 @@ The dataset includes information about movies and TV shows — such as **title, 
 ## 📊 Key Insights
 
 ### 1. Content Distribution  
-**Movies:** 69.6%  
-**TV Shows:** 30.4%
+- **Movies:** 69.6%  
+- **TV Shows:** 30.4%
 
 ![Content Distribution](content_distribution.jpg)
 
 ### 2. Content Growth Over Time  
-Surge in content production post-2000s.
+- Surge in content production post-2000s.
 
 ![Content Overtime](content_py.jpg)
 
